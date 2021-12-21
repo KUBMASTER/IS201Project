@@ -1,0 +1,29 @@
+body {
+    background-color: rgb(150, 150, 150);
+    color: white
+  }
+li {
+  color: white;
+}
+text {
+  color: white;
+}
+link {
+  color: white;
+  text-decoration: underline;
+}
+h2 {
+  font:40px Arial, sans-serif; ;
+}
+h1{
+  font-style:initial
+}
+li{
+  font-style: italic;
+}
+ul{
+  font-style: normal;
+}
+div {
+  font-size: 15px;
+}
